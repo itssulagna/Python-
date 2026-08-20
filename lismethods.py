@@ -1,0 +1,11 @@
+students = ["Rahul", "Aman", "Priya", "Neha"]
+students.append("Karan")
+# print(students)
+students.insert(2,"Sneha")
+# print(students)
+students.remove("Aman")
+# print(students)
+students.sort()
+# print(students)
+students.reverse()
+print(students)

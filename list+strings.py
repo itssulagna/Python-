@@ -1,0 +1,4 @@
+words = ["apple", "banana", "kiwi", "orange", "grape"]
+for i in words:
+    if len(i) > 5:
+        print(i)
